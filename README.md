@@ -1,2 +1,2 @@
 # V-Free
-Open source mrna vaccine
+An open source mRNA vaccine design against the SARS-COV-2.
